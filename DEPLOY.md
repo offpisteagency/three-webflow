@@ -84,3 +84,4 @@ Wait a few minutes for GitHub to build your site.
 - **Responsive**: The animation already handles window resize
 - **Performance**: Option B (Custom Code) is more performant than iframe
 
+
